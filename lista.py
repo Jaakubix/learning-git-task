@@ -12,3 +12,4 @@ for sklep, rzeczy in zakupy.items():
     print(x)
 wartosc1 = len(wartosc[0]) + len(wartosc[1])
 print(f"W sumie kupuję {wartosc1} produktów.")
+print("Autor: JP")
